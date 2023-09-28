@@ -1,0 +1,12 @@
+timm==0.9.5
+torch==2.0.1
+torchvision==0.15.2
+fastapi
+transformers
+opencv-python
+python-multipart
+uvicorn
+numpy
+pydantic_settings
+pandas
+
